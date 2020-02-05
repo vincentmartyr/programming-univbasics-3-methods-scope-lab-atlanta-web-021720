@@ -20,4 +20,3 @@ def any_phrase(phrase)
 
 end
 
-p any_phrase("Do A Barrel Roll!")
