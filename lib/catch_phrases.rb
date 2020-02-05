@@ -17,7 +17,7 @@ phrase = "Do A Barrel Roll!\n"
 
 def any_phrase(phrase)
   phrase = "Do A Barrel Roll!\n"
-p any_phrase(phrase)
+
 end
 
 p any_phrase("Do A Barrel Roll!\n")
